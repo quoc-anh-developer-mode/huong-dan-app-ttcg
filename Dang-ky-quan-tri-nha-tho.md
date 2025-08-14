@@ -18,11 +18,19 @@
 - **Bước 2:** Tìm kiếm **"Thông Tin Công Giáo"**.
 - **Bước 3:** Nhấn **Tải xuống** và **Cài đặt**.
 
-![Tải ứng dụng](https://example.com/image_download.png)
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/0b6796375a8ecc4e10d8aa28b9c364ac005aa34e/1.%20T%E1%BA%A3i%20v%C3%A0%20C%C3%A0i%20%C4%90%E1%BA%B7t%20%E1%BB%A8ng%20D%E1%BB%A5ng/Screenshot_20250814_223438_Google%20Play%20Store.jpg" alt="Tải ứng dụng" width="207" height="453">
+
+
 
 ---
 
-## 2. Đăng Ký / Đăng Nhập Tài Khoản
+## 2. Đăng ký quản trị nhà thờ
+- **Bước 1:** Mở App **"Thông Tin Công Giáo"**.
+- **Bước 2:** Màn hình chính của App sẽ trông giống bên dưới.
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
+- **Bước 2:** Tìm kiếm **"Thông Tin Công Giáo"**.
+
+- 
 - **Đăng ký mới:**
   1. Nhấn nút **Đăng ký**.
   2. Nhập **họ tên, email, mật khẩu**.
