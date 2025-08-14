@@ -18,8 +18,6 @@
 
 <img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/0b6796375a8ecc4e10d8aa28b9c364ac005aa34e/1.%20T%E1%BA%A3i%20v%C3%A0%20C%C3%A0i%20%C4%90%E1%BA%B7t%20%E1%BB%A8ng%20D%E1%BB%A5ng/Screenshot_20250814_223438_Google%20Play%20Store.jpg" alt="Tải ứng dụng" width="207" height="453">
 
-
-
 ---
 
 ## 2. Đăng ký quản trị nhà thờ
@@ -30,90 +28,59 @@
 
 - **Bước 3:** Chọn **"Menu"**.
   
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(1)-1.jpg" alt="Homepage" width="207" height="453">
 
 - **Bước 4:** Chọn **"Nhà Thờ"**.
   
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(3).jpg" alt="Homepage" width="207" height="453">
 
 - **Bước 5:** Chọn **"Quốc Gia"**.
   
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(4).jpg" alt="Homepage" width="207" height="453">
 
 - **Bước 6:** Chọn **"Việt Nam"**.
   
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(5).jpg" alt="Homepage" width="207" height="453">
 
 - **Bước 7:** Ở mục **"Giáo Phận"** chọn **"TGP Sài Gòn"**.
   
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(6).jpg" alt="Homepage" width="207" height="453">
 
-- **Bước 8:** Ở mục **"Tên giáo xứ"** nhập tên Giáo Xứ bạn muốn tìm kiếm, chọn biểu tượng **"Kính lúp"** để kích hoạt tìm kiếm.
+- **Bước 8:** Ở mục **"Tên giáo xứ"** nhập tên Giáo Xứ bạn muốn tìm kiếm; ở đây ví dụ là [Nguyễn Duy Khang].
+- Chọn biểu tượng **"Kính lúp"** để kích hoạt tìm kiếm.
   
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(7).jpg" alt="Homepage" width="207" height="453">
 
 - **Bước 9:** Kết quả tìm kiếm hiện ra bên dưới.
   
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(8).jpg" alt="Homepage" width="207" height="453">
 
 - **Bước 10:** Chọn vào Giáo Xứ muốn quản trị.
-  
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
 
 - **Bước 11:** Chọn **"Theo Dõi"**.
   
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(9).jpg" alt="Homepage" width="207" height="453">
 
 - **Bước 12:** Một số trường hợp ứng dụng TTCG yêu cầu chia sẻ vị trí để hỗ trợ việc Check In các Nhà Thờ gần vị trí của mình.
-  Chọn **"Trong khi dùng ứng dụng"**.
+- Chọn **"Trong khi dùng ứng dụng"**.
   
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(10).jpg" alt="Homepage" width="207" height="453">
 
-- **Bước 13:** Chọn **"Theo Dõi"**.
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
-- **Bước 14:** Chọn **"Theo Dõi"**.
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
-- **Bước 15:** Chọn **"Theo Dõi"**.
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
-
-- **Bước 11:** Chọn **"Theo Dõi"**.
+- **Bước 13:** Chọn **"Biểu tượng"**.
   
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(11).jpg" alt="Homepage" width="207" height="453">
 
-- **Bước 11:** Chọn **"Theo Dõi"**.
+- **Bước 14:** Chọn **"Biểu tượng"**.
   
-<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/41970e93af2503ad9d027cf17298eba2449ac6ad/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/2.1%20(1).jpg" alt="Homepage" width="207" height="453">
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(12).jpg" alt="Homepage" width="207" height="453">
 
-- **Đăng ký mới:**
-  1. Nhấn nút **Đăng ký**.
-  2. Nhập **họ tên, email, mật khẩu**.
-  3. Xác nhận qua email.
-- **Đăng nhập:**
-  1. Nhấn **Đăng nhập**.
-  2. Nhập **email** và **mật khẩu** đã đăng ký.
+- **Bước 15:** Liên kết với tài khoản Google có sẵn. Chọn biểu tượng **"Google"**.
+  
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(13).jpg" alt="Homepage" width="207" height="453">
 
-💡 *Mẹo:* Bạn có thể đăng nhập nhanh bằng **Google** hoặc **Facebook**.
+- **Bước 16:** Khi trở lại màn hình Homepage. Chọn **"Menu"** để thấy ứng dụng đã được login thành công.
+  
+<img src="https://github.com/quoc-anh-developer-mode/huong-dan-app-ttcg/blob/8bcb26bf348e4418309a02b83add5ff4553fca92/2.%20%C4%90%C4%83ng%20k%C3%BD%20qu%E1%BA%A3n%20tr%E1%BB%8B%20nh%C3%A0%20th%E1%BB%9D/Edited/2.1%20(18).jpg" alt="Homepage" width="207" height="453">
 
----
-
-## 3. Khám Phá Các Chức Năng Chính
-- 📰 **Tin tức Công Giáo** – Cập nhật nhanh các thông tin mới nhất.
-- 🙏 **Lời cầu nguyện** – Kinh sáng, kinh tối, kinh theo mùa Phụng vụ.
-- 📖 **Bài học Đức Tin** – Kiến thức Kinh Thánh và Giáo lý.
-- 📅 **Lịch phụng vụ** – Xem bài đọc và các lễ trọng trong năm.
-
----
-
-## 4. Tùy Chỉnh Cài Đặt Cá Nhân
-- Thay đổi **ngôn ngữ** (Việt, Anh, Tây Ban Nha, Bồ Đào Nha…).
-- Bật/tắt **thông báo** theo chủ đề quan tâm.
-- Lưu **yêu thích** để đọc lại sau.
-
----
-
-## 5. Hỗ Trợ & Liên Hệ
-- 📧 Email: **hello@i-catholic.org**
-- ☎ Hotline: **028 7304 5626**
-- 🌐 Website: [i-catholic.org](https://i-catholic.org)
 
 ---
